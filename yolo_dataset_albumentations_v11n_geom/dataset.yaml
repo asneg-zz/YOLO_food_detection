@@ -18,5 +18,6 @@ names:
 - нож
 nc: 17
 path: /home/asneg/PycharmProjects/YOLO_food_detection/yolo_dataset_albumentations_v11n_geom
+test: test/images
 train: train/images
 val: val/images

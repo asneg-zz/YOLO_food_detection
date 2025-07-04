@@ -668,9 +668,9 @@ YOLO_food_detection/
 ├── yolo_train_au.py            # Обучение с Albumentations
 ├── detected_yolo.py            # Запускаемый файл для инференса
 ├── extracted_frames/           # Извлеченные кадры 
-├── class_mapping.py/           # Мапинг классов обхектов
-├── designer.py/                # GUI приложения
-├── video_processor.py/         # Обработка видио и детекции 
+├── class_mapping.py           # Мапинг классов обхектов
+├── designer.py                # GUI приложения
+├── video_processor.py         # Обработка видио и детекции 
 ├── yolo_dataset_albumentations_v11n_not_au/ # Без albumentations
 ├── yolo_dataset_albumentations_v11n_au_full/ # С полной albumentations без погодных
 ├── yolo_dataset_albumentations_v11n_geom/ # Только с геометрией 

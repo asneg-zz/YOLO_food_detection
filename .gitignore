@@ -60,6 +60,7 @@ cover/
 .idea
 train/
 val/
+test/
 weights/
 !**/albumentations_training/**/*.png
 !img.png
