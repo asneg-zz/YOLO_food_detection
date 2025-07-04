@@ -62,6 +62,7 @@ train/
 val/
 test/
 weights/
+video/
 !**/albumentations_training/**/*.png
 !img.png
 # Django stuff:

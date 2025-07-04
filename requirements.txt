@@ -1,27 +1,25 @@
-# Основные зависимости для YOLO проектов
-ultralytics>=8.0.0
-opencv-python-headless>=4.8.0
-PyQt5>=5.15.0
-Pillow>=9.0.0
-numpy>=1.21.0
-tqdm>=4.64.0
-PyYAML>=6.0
-requests>=2.28.0
-pathlib2>=2.3.0
+# Requirements для YOLO Food Detection
+# Автоматически сгенерировано
 
-# Для аугментации данных (yolo_train_au.py)
-albumentations>=1.3.0
+# ML/DL библиотеки
+albumentations>=2.0.8
+numpy>=2.3.1
+ultralytics>=8.3.161
 
-# Для анализа изображений (video.py)
-scikit-image>=0.19.0
+# GUI библиотеки
+PyQt5>=5.15.11
+opencv-python-headless
+# Утилиты
+Pillow>=11.2.1
+pyyaml>=6.0.2
+requests>=2.32.4
+tqdm>=4.67.1
 
-# Дополнительные зависимости для работы с изображениями
-matplotlib>=3.5.0
-scipy>=1.9.0
-
-# Для работы с JSON и API
-urllib3>=1.26.0
-
-# Опциональные зависимости для ускорения работы
-# torch>=2.0.0  # Раскомментируйте если нужна GPU поддержка
-# torchvision>=0.15.0  # Раскомментируйте если нужна GPU поддержка
+# Другие пакеты
+YOLO_train
+class_mapping
+designer
+fastjsonschema>=2.21.1
+label_studio_ml
+scikit-image>=0.25.2
+video_processor
