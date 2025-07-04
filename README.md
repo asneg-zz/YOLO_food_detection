@@ -697,7 +697,6 @@ YOLO_food_detection/
 │   ├── 🐍 albumentations_augmentor.py  # Аугментация с Albumentations
 │   ├── 🐍 yolo_train_au.py             # Обучение с аугментацией
 ├── 📄 .gitignore                   # Git ignore для обучения
-├── 📄 3_1.mp4                      # Тестовое видео
 │── 📄 comments.txt                 # Комментарии к проекту
 │── 📄 img.png                      # Изображение GUI
 │── 📄 README.md                    # Документация 
