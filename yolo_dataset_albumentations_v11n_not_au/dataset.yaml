@@ -1,0 +1,22 @@
+names:
+- тарелка
+- суп
+- чайник
+- чашка
+- соус
+- мясо
+- салат
+- хлеб
+- паста
+- овощи
+- салфетка
+- стакан
+- разделочная_доска
+- вилка
+- ложка
+- корзинка
+- нож
+nc: 17
+path: /home/asneg/PycharmProjects/YOLO_food_detection/yolo_dataset_albumentations_v11n_not_au
+train: train/images
+val: val/images
